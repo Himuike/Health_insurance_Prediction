@@ -1,4 +1,4 @@
-# Mediacal Insurance Predication Datascience Project
+# Medical Insurance Prediction Data science Project
 
 ## Project Overview
 This project involves analyzing an insurance dataset to predict insurance charges based on various customer features. The goal is to apply data science techniques such as data preprocessing, feature selection, and machine learning to uncover insights and build predictive models.
