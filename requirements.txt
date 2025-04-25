@@ -1,0 +1,6 @@
+- `numpy`: For numerical operations and handling arrays.
+- `pandas`: For data manipulation and analysis.
+- `matplotlib`: For creating static, animated, and interactive visualizations.
+- `seaborn`: For statistical data visualization.
+- `scikit-learn`: For machine learning algorithms and tools.
+- `jupyter`: For running Jupyter notebooks.
